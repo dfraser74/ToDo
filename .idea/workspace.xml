@@ -85,7 +85,7 @@
       <file leaf-file-name=".travis.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="777">
+            <state line="4" column="10" selection-start="61" selection-end="61" vertical-scroll-proportion="0.077220075" vertical-offset="0" max-vertical-offset="777">
               <folding />
             </state>
           </provider>
@@ -106,6 +106,7 @@
       <list>
         <option value="$PROJECT_DIR$/controller.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -442,7 +443,7 @@
       <created>1395235399419</created>
       <updated>1395235399419</updated>
       <workItem from="1395235401351" duration="310000" />
-      <workItem from="1395235726087" duration="634000" />
+      <workItem from="1395235726087" duration="780000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1395235800885</created>
@@ -456,7 +457,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="944000" />
+    <option name="totallyTimeSpent" value="1090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
@@ -540,7 +541,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="777">
+        <state line="4" column="10" selection-start="61" selection-end="61" vertical-scroll-proportion="0.077220075" vertical-offset="0" max-vertical-offset="777">
           <folding />
         </state>
       </provider>
