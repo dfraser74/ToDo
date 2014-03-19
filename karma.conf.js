@@ -12,12 +12,7 @@ module.exports = function(config) {
     // available frameworks: https://npmjs.org/browse/keyword/karma-adapter
     frameworks: ['jasmine'],
 
-    plugins : [
-      'karma-junit-reporter',
-      'karma-chrome-launcher',
-      'karma-phantomjs-launcher',
-      'karma-jasmine'
-    ],
+
     // list of files / patterns to load in the browser
     files: [
         'lib/angular/angular.min.js',
@@ -65,8 +60,15 @@ module.exports = function(config) {
 
     // start these browsers
     // available browser launchers: https://npmjs.org/browse/keyword/karma-launcher
-//    browsers: ['Chrome'],
-      browsers: ['PhantomJS','Chrome'],
+    browsers: ['Chrome'],
+//      browsers: ['PhantomJS','Chrome'],
+
+    plugins : [
+        'karma-junit-reporter',
+        'kama-chrome-launcher',
+        'karma-phantomjs-launcher',
+        'karma-jasmine'
+    ],
 
     // Continuous Integration mode
     // if true, Karma captures browsers, runs the tests and exits

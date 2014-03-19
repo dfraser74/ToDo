@@ -4,8 +4,13 @@ module.exports = function(grunt) {
     grunt.initConfig({
         karma: {
             unit: {
-                configFile: 'config/karma.conf.js',
+                configFile: 'karma.conf.js',
                 background: true
+            },
+            travis: {
+                configFile: 'karma.conf.js',
+                singleRun: true,
+                browsers: ['PhantomJS']
             }
         },
         watch: {
@@ -20,4 +25,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-karma');
 
     grunt.registerTask('devmode', ['karma:unit', 'watch']);
+
+    // Add a new task for travis
+    grunt.registerTask('test', ['karma:travis'])
 };
