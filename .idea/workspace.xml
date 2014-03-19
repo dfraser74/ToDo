@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0efc360c-5db1-47cc-82c9-81b787f7db22" name="Default" comment="" />
+    <list default="true" id="0efc360c-5db1-47cc-82c9-81b787f7db22" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="ToDo.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -82,10 +85,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".travis.yml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".travis.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="10" selection-start="61" selection-end="61" vertical-scroll-proportion="0.077220075" vertical-offset="0" max-vertical-offset="777">
+            <state line="2" column="7" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="1" selection-start="243" selection-end="243" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="2" selection-start="621" selection-end="621" vertical-scroll-proportion="0.42471042" vertical-offset="0" max-vertical-offset="777">
               <folding />
             </state>
           </provider>
@@ -107,6 +128,8 @@
         <option value="$PROJECT_DIR$/controller.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
       </list>
     </option>
   </component>
@@ -443,7 +466,7 @@
       <created>1395235399419</created>
       <updated>1395235399419</updated>
       <workItem from="1395235401351" duration="310000" />
-      <workItem from="1395235726087" duration="780000" />
+      <workItem from="1395235726087" duration="1373000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1395235800885</created>
@@ -453,11 +476,15 @@
       <created>1395236096654</created>
       <updated>1395236096654</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Node config2&#10;">
+      <created>1395237487674</created>
+      <updated>1395237487674</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1090000" />
+    <option name="totallyTimeSpent" value="1683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
@@ -505,7 +532,8 @@
     </option>
     <MESSAGE value="Initial" />
     <MESSAGE value="Initial&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial&#10;" />
+    <MESSAGE value="Node config2&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Node config2&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -541,7 +569,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="10" selection-start="61" selection-end="61" vertical-scroll-proportion="0.077220075" vertical-offset="0" max-vertical-offset="777">
+        <state line="2" column="7" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="1" selection-start="243" selection-end="243" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="2" selection-start="621" selection-end="621" vertical-scroll-proportion="0.42471042" vertical-offset="0" max-vertical-offset="777">
           <folding />
         </state>
       </provider>
