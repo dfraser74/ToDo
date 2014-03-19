@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0efc360c-5db1-47cc-82c9-81b787f7db22" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/karma.conf.js" afterPath="$PROJECT_DIR$/karma.conf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ToDo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,7 +97,7 @@
       <file leaf-file-name="karma.conf.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/karma.conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="7" selection-start="1018" selection-end="1018" vertical-scroll-proportion="-0.21118012" vertical-offset="747" max-vertical-offset="1230">
+            <state line="44" column="4" selection-start="1015" selection-end="1015" vertical-scroll-proportion="0.3416149" vertical-offset="480" max-vertical-offset="1245">
               <folding />
             </state>
           </provider>
@@ -542,7 +543,7 @@
       <updated>1395235399419</updated>
       <workItem from="1395235401351" duration="310000" />
       <workItem from="1395235726087" duration="4692000" />
-      <workItem from="1395263365511" duration="982000" />
+      <workItem from="1395263365511" duration="1278000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1395235800885</created>
@@ -560,7 +561,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5984000" />
+    <option name="totallyTimeSpent" value="6280000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -808,7 +809,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/karma.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="7" selection-start="1018" selection-end="1018" vertical-scroll-proportion="-0.21118012" vertical-offset="747" max-vertical-offset="1230">
+        <state line="44" column="4" selection-start="1015" selection-end="1015" vertical-scroll-proportion="0.3416149" vertical-offset="480" max-vertical-offset="1245">
           <folding />
         </state>
       </provider>
