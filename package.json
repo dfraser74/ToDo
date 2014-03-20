@@ -1,9 +1,7 @@
 {
   "name": "ToDo",
   "private": true,
-  "scripts": {
-    "test": "grunt test"
-  },
+    "script" : "phantomjs test/controllerSpec.js",
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-jshint": "~0.6.3",
